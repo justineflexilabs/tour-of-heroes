@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Adding Path Alias
+
+(https://dev.to/digitaldino/how-to-set-up-aliases-for-module-imports-in-typescript-angular-2779)
+
+## Structure
+
+(https://angular-folder-structure.readthedocs.io/en/latest/overview.html)

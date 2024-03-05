@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 
-import { HeroesComponent } from './page/heroes.component';
-import { HeroDetailComponent } from './page/hero-detail/hero-detail.component';
-import { DashboardComponent } from './page/dashboard/dashboard.component';
-import { SharedModule } from 'src/app/shared/shared.module';
+import { HeroesComponent } from '@modules/heroes/page/heroes.component';
+import { HeroDetailComponent } from '@modules/heroes/page/hero-detail/hero-detail.component';
+import { DashboardComponent } from '@modules/heroes/page/dashboard/dashboard.component';
+import { SharedModule } from '@shared/shared.module';
 
 @NgModule({
   declarations: [HeroesComponent, HeroDetailComponent, DashboardComponent],

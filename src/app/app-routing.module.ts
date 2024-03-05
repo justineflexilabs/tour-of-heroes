@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { HeroesComponent } from './modules/heroes/page/heroes.component';
-import { DashboardComponent } from './modules/heroes/page/dashboard/dashboard.component';
-import { HeroDetailComponent } from './modules/heroes/page/hero-detail/hero-detail.component';
+import { HeroesComponent } from '@modules/heroes/page/heroes.component';
+import { DashboardComponent } from '@modules/heroes/page/dashboard/dashboard.component';
+import { HeroDetailComponent } from '@modules/heroes/page/hero-detail/hero-detail.component';
 
 /**
  * First, the app-routing.module.ts file imports RouterModule and Routes so the application can
